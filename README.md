@@ -12,13 +12,8 @@
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     </div>
-    </br>
-    </br>
-    </br>
-    </br>
   </div>
 </div>
-<hr></hr>
 
 <!---
 amarianasilva/amarianasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
