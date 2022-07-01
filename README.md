@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/88731499/173959139-10ba22d5-1a11-431e-bba9-f51a12050f6a.png" width="420" height="348" align="left">
   </div>
   <div>
-    <h1 align="center">&lt;👋🏻 Hello, World! /&gt;</h1>
+    <h1 align="center">&lt;👋 Hello, World! /&gt;</h1>
     <p>‣ My name is Mariana and I'm a Software Engineer who likes to learn about new technologies and explore different stacks.</p>
     <p>‣ Found my passion in programming during my teenage years and then decided to pursue the engineering academic path.</p>
     <div>
