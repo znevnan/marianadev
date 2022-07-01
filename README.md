@@ -1,16 +1,25 @@
-### Hi there 👋
+<div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/88731499/173959139-10ba22d5-1a11-431e-bba9-f51a12050f6a.png" width="420" height="348" align="left">
+  </div>
+  <div>
+    <h1 align="center">&lt;👋🏻 Hello, World! /&gt;</h1>
+    <p>‣ My name is Mariana and I'm a Software Engineer who likes to learn about new technologies and explore different stacks.</p>
+    <p>‣ Found my passion in programming during my teenage years and then decided to pursue the engineering academic path.</p>
+    <div>
+      <h4>Currently Learning:</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    </div>
+    </br>
+    </br>
+    </br>
+  </div>
+</div>
+<hr></hr>
 
-<!--
-**marianadev/marianadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+amarianasilva/amarianasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
