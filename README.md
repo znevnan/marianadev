@@ -1,6 +1,6 @@
 <div>
   <div>
-    <img src="https://user-images.githubusercontent.com/88731499/177053798-b37aa9cc-8cd0-4056-988e-ebda30b62fc1.png" width="460" height="280" align="right">
+    <img src="https://user-images.githubusercontent.com/88731499/177053798-b37aa9cc-8cd0-4056-988e-ebda30b62fc1.png" width="410" height="240" align="right">
   </div>
   <div>
     <h1>&lt;👋 Hello, World! /&gt;</h1>
